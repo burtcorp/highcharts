@@ -22,7 +22,8 @@
     "errors",
     "gfx",
     "js",
-    "lib"
+    "lib",
+    "dist"
   ],
   "scripts": {
     "test": "gulp test --all",
